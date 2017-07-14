@@ -19,7 +19,7 @@ Participating teams must have between 2 and 4 elements. Each team shall build so
 At the end of the hackathon, we’ll have a fair where participants will have the opportunity to experiment and vote for each other’s projects in 3 possible categories. At the end we’ll announce the three most voted project in each of the categories. The categories are:
 
 * **Useful**: things you could see yourself (or others) using
-* **Funny**: things that are entertaining, or generally make you laugh
+* **Funny**: things that are entertaining, or generally make people laugh
 * **Hardcore**: things of enviable technical prowess
 
 There are also satellite activities (like workshops, games, etc.). We hope participants have fun,  socialize, and learn from building shiny things and from each other’s projects. It’s also a great opportunity to get to know about Porto and its tech scene.
@@ -125,7 +125,7 @@ If any team members are unable to be present or to vote, they must convene promp
 We’re going to have 3 categories:
 
 * **Useful**: you see yourself using it or it creates social value
-* **Funny**:	silly/fun, does not have to be useful, it just has to make you laugh
+* **Funny**:	silly/fun, does not have to be useful, it just has to make people laugh
 * **Hardcore**: technologically impressive achievements
 
 When you cast a vote on somebody, you also choose the category. You can vote for a project in more than one category. The project owners might suggest categories to be voted on, but it’s completely up to the voter to follow that suggestion.
