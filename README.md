@@ -1,7 +1,7 @@
 Make or Break 2017 — Rules
 ===
 
-Make or Break (MoB) is a hackathon in the city of Porto, Portugal, the spiritual successor to Porto Summer of Code, brought to you by the same team.
+[Make or Break](https://makeorbreak.portosummerofcode.com) (MoB) is a hackathon in the city of Porto, Portugal, the spiritual successor to Porto Summer of Code, brought to you by the same team.
 Everyone can participate. It’s free, it’s fun, and there are prizes for the best projects.
 
 Until the event begins, the rules are a work in progress. There won't be any major changes, but be sure to check back.
