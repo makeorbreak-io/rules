@@ -36,16 +36,16 @@ When is this?
 MoB is a 3-day event. It starts on September 8th and ends on September 10th:
 
 * 08-09-2017: Hackathon opening
-	* 09:30-13:00: Check-in
-	* 14:00-14:30: Welcome
-	* 14:30-23:59: Hacking time (Make)
+    * 09:30-13:00: Check-in
+    * 14:00-14:30: Welcome
+    * 14:30-23:59: Hacking time (Make)
 * 09-09-2017: Hackathon continued
-	* 00:00-23:59: Hacking time (Make)
+    * 00:00-23:59: Hacking time (Make)
 * 10-09-2017: Hackathon finale
-	* 00:00-14:00: Hacking time (Make)
-	* 15:00-16:00: Fair registration and booth setup
-	* 16:00-18:00: Fair and voting time (Break)
-	* 18:00-20:00: Winners and closing ceremony
+    * 00:00-14:00: Hacking time (Make)
+    * 15:00-16:00: Fair registration and booth setup
+    * 16:00-18:00: Fair and voting time (Break)
+    * 18:00-20:00: Winners and closing ceremony
 
 Workshops are to be added to the schedule as we reveal them, but they will need a separate application.
 
@@ -125,7 +125,7 @@ If any team members are unable to be present or to vote, they must convene promp
 We’re going to have 3 categories:
 
 * **Useful**: you see yourself using it or it creates social value
-* **Funny**:	silly/fun, does not have to be useful, it just has to make people laugh
+* **Funny**: silly/fun, does not have to be useful, it just has to make people laugh
 * **Hardcore**: technologically impressive achievements
 
 When you cast a vote on somebody, you also choose the category. You can vote for a project in more than one category. The project owners might suggest categories to be voted on, but it’s completely up to the voter to follow that suggestion.
