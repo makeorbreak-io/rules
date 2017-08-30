@@ -154,7 +154,7 @@ case we have to.
 
 #### Winning multiple categories
 
-In order to avoid concentrating the spoils on a particularly successful
+In order to avoid concentrating the prizes on a particularly successful
 project, we'll only award one prize per team. If a team wins multiple
 categories, they'll be given the choice of which prize to win.
 
