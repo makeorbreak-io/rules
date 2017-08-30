@@ -159,7 +159,8 @@ project, we'll only award one prize per team. If a team wins multiple
 categories, they'll be given the choice of which prize to win.
 
 In order to avoid prize rigging, we'll be asking each team to declare their
-prize preference before we open up the votes.
+prize preference before we open up the votes. If a team fails to report their
+preference in time, we'll randomly assign them one.
 
 #### Auditability
 
