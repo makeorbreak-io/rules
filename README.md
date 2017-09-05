@@ -132,7 +132,11 @@ When you cast a vote on somebody, you also choose the category. You can vote for
 
 #### Prizes
 
-There will be prizes for the three winning team in each category. We still haven’t decided what they’ll be. Be sure to check back for more info at a later time!
+There will be prizes for the each member of the winning team in each category.
+
+* **Useful**: Dell UltraSharp 27 Monitor (U2715H)
+* **Funny**: Nintendo Switch (Grey) + Splatoon 2
+* **Hardcore**: Oculus Rift + Touch
 
 #### Voting method
 
