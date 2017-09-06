@@ -101,7 +101,18 @@ The code (and any other produced artifacts) will belong to the participants. How
 
 In the interest of keeping things level, we’re only allowing to incorporate free/libre open source software that’s publicly available before the competition begins. We don’t have any issues with people using popular software packages, but we’d like to avoid that teams bring a whole project along when others couldn’t have done the same. If you have a non-trivial codebase you’d like to use on your hack, make sure it is publicly available under [an OSI approved license](https://opensource.org/licenses) and unencumbered by any IP restrictions before the competition begins. This way everybody starts equally as far from the finish line.
 
-At the beginning of the fair, we’ll make a public fork of your repo. This ensures that we’ll have a copy that we can make available to everyone and that we can preserve it for posterity.
+
+#### Source code availability
+
+In order to assure that all code is available to everyone, participants should
+use the GitHub repository provided by the organization. Nuking the repository
+and force pushes will be disabled. This ensures that we’ll have a copy that we
+can make available to everyone and that we can preserve for posterity.
+
+Not using the repository **will disqualify their entire team** from winning any
+prizes. If a team has any problem with this setup they must convene promptly
+with the organization as soon as possible, to find a way to avoid
+disqualification.
 
 #### Hosting
 
