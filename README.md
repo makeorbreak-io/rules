@@ -154,9 +154,9 @@ case we have to.
 
 #### Winning multiple categories
 
-In order to avoid concentrating the prizes on a particularly successful
-project, we'll only award one prize per team. If a team wins multiple
-categories, they'll be given the choice of which prize to win.
+A team can only win one prize. If a team wins multiple categories, they'll win
+their preferred prize, and the second best team in the other categories will
+take the remaining prizes.
 
 In order to avoid prize rigging, we'll be asking each team to declare their
 prize preference before we open up the votes. If a team fails to report their
