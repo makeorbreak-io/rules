@@ -143,6 +143,25 @@ There will be prizes for the each member of the winning team in each category.
 Each category has their own independent voting system. This means that voting in one category in no way influences the winners of the other categories.
 For each category, voters are allowed to vote on three projects, in order of preference. When the ballots close, we sort the projects by their ranking, where ranking can be determined by [Schulze method](https://en.wikipedia.org/wiki/Schulze_method).
 
+
+#### Breaking ties
+
+Breaking ties in the Schulze method takes various forms, each with their pros
+and cons. We've decided to keep this simple and break ties randomly, since all
+the winners are equally preferred by the audience. Before the voting begins,
+we'll publicly assign each team a "tie breaking dice roll", and use that in
+case we have to.
+
+#### Winning multiple categories
+
+A team can only win one prize. If a team wins multiple categories, they'll win
+their preferred prize, and the second best team in the other categories will
+take the remaining prizes.
+
+In order to avoid prize rigging, we'll be asking each team to declare their
+prize preference before we open up the votes. If a team fails to report their
+preference in time, we'll randomly assign them one.
+
 #### Auditability
 
 At the end of the competition, we will publish the set of votes associated with anonymized identities. This will allow voters to verify that their vote is included in the list and that the number of votes matches the results. The anonymization process guarantees that each participant is able to verify that their votes are uniquely identified.
