@@ -109,7 +109,7 @@ use the GitHub repository provided by the organization. Nuking the repository
 and force pushes will be disabled. This ensures that we’ll have a copy that we
 can make available to everyone and that we can preserve for posterity.
 
-Not using the repository **may disqualify their entire team** from winning any
+Not using the repository **will disqualify their entire team** from winning any
 prizes. If a team has any problem with this setup they must convene promptly
 with the organization as soon as possible, to find a way to avoid
 disqualification.
