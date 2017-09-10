@@ -11,16 +11,20 @@ What is this?
 
 MoB is a team-based hackathon where projects are not just presented but also tested by other participants, meaning that the event has two main phases:
 
-* **Make**: 48-hour run to build the best project possible
-* **Break**: teams showcase and let other participants test their finished projects
+* **Make**: build the best project possible
+* **Break**: showcase and let other participants test your finished project
 
 Participating teams must have between 2 and 4 elements. Each team shall build something that’s interesting for them and that they can showcase.
 
-At the end of the hackathon, we’ll have a fair where participants will have the opportunity to experiment and vote for each other’s projects in 3 possible categories. At the end, we’ll announce the three most voted project in each of the categories. The categories are:
+At the end of the hackathon, we’ll have a fair where participants will have the opportunity to experiment and vote for each other’s projects. The registration to the hack fair will happen in the last day, at the beginning of the afternoon. As we need to setup the booths to the fair, we advise you to stop coding by that time, but we will not enforce it (you can code until the end of the fair).
+
+Projects can be voted on 3 different categories:
 
 * **Useful**: things you could see yourself (or others) using
 * **Funny**: things that are entertaining, or generally make people laugh
 * **Hardcore**: things of enviable technical prowess
+
+By the end of the hack fair, we’ll announce the three most voted project in each of the categories.
 
 There are also satellite activities (like workshops, games, etc.). We hope participants have fun,  socialize, and learn from building shiny things and from each other’s projects. It’s also a great opportunity to get to know about Porto and its tech scene.
 
@@ -43,8 +47,9 @@ MoB is a 3-day event. It starts on September 8th and ends on September 10th:
     * 00:00-23:59: Hacking time (Make)
 * 10-09-2017: Hackathon finale
     * 00:00-14:00: Hacking time (Make)
-    * 15:00-16:00: Fair registration and booth setup
-    * 16:00-18:00: Fair and voting time (Break)
+    * 14:00: Advised code-stop
+    * 14:00-15:30: Fair registration and booth setup
+    * 15:30-18:00: Fair and voting time (Break)
     * 18:00-20:00: Winners and closing ceremony
 
 Workshops are to be added to the schedule as we reveal them, but they will need a separate application.
