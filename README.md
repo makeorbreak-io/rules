@@ -24,7 +24,7 @@ Projects can be voted on 3 different categories:
 * **Funny**: things that are entertaining, or generally make people laugh
 * **Hardcore**: things of enviable technical prowess
 
-By the end of the hack fair, we’ll announce the three most voted project in each of the categories.
+By the end of the hack fair, we’ll announce the three most ~~voted~~ preferred project in each of the categories.
 
 There are also satellite activities (like workshops, games, etc.). We hope participants have fun,  socialize, and learn from building shiny things and from each other’s projects. It’s also a great opportunity to get to know about Porto and its tech scene.
 
