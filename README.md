@@ -1,7 +1,7 @@
-Make or Break 2017 — Rules
+Make or Break 2018 — Rules
 ===
 
-[Make or Break](https://makeorbreak.portosummerofcode.com) (MoB) is a hackathon in the city of Porto, Portugal, the spiritual successor to Porto Summer of Code, brought to you by the same team.
+[Make or Break](https://makeorbreak.io) (MoB) is a hackathon in the city of Porto, Portugal, the spiritual successor to Porto Summer of Code, brought to you by the same team.
 Everyone can participate. It’s free, it’s fun, and there are prizes for the best projects.
 
 Until the event begins, the rules are a work in progress. There won't be any major changes, but be sure to check back.
@@ -37,15 +37,15 @@ As in the last three events organized by the team at Porto Summer of Code, the v
 When is this?
 ---
 
-MoB is a 3-day event. It starts on September 8th and ends on September 10th:
+MoB is a 3-day event. It starts on April 13th and ends on April 15th:
 
-* 08-09-2017: Hackathon opening
+* 13-04-2018: Hackathon opening
     * 09:30-13:00: Check-in
     * 14:00-14:30: Welcome
     * 14:30-23:59: Hacking time (Make)
-* 09-09-2017: Hackathon continued
+* 14-04-2018: Hackathon continued
     * 00:00-23:59: Hacking time (Make)
-* 10-09-2017: Hackathon finale
+* 15-04-2018: Hackathon finale
     * 00:00-14:00: Hacking time (Make)
     * 14:00: Advised code-stop
     * 14:00-15:30: Fair registration and booth setup
@@ -63,7 +63,7 @@ It’s expected that each team will be actively building a software project to s
 
 At the fair, all of the members of your team are expected to divide their time between showcasing their team’s work and voting for other projects.
 
-Seating is limited, be sure to grab yours at [https://makeorbreak.portosummerofcode.com](https://makeorbreak.portosummerofcode.com)
+Seating is limited, be sure to grab yours at [https://makeorbreak.io](https://makeorbreak.io)
 
 ### 1-man teams
 
@@ -83,7 +83,7 @@ If you are by yourself and you are unhappy that you could not participate, you a
 
 ### Workshops
 
-Workshops will happen during the Make phase and will have their own registration page. To apply, go to [https://makeorbreak.portosummerofcode.com](https://makeorbreak.portosummerofcode.com) and register for the workshops in the 'Workshops' section (coming soon).
+Workshops will happen during the Make phase and will have their own registration page. To apply, go to [https://makeorbreak.io](https://makeorbreak.io) and register for the workshops in the 'Workshops' section (coming soon).
 
 Event phases
 ---
