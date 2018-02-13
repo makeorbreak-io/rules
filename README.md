@@ -20,9 +20,9 @@ At the end of the hackathon, we’ll have a fair where participants will have th
 
 Projects can be voted on 3 different categories:
 
-* **Useful**: things you could see yourself (or others) using
-* **Funny**: things that are entertaining, or generally make people laugh
-* **Hardcore**: things of enviable technical prowess
+* **Useful**: projects you could see yourself using or create social value
+* **Fun**: projects that are entertaining or generally make people happy
+* **Creative**: projects that implement new ideas or new solutions to known problems
 
 By the end of the hack fair, we’ll announce the three most ~~voted~~ preferred project in each of the categories.
 
@@ -141,8 +141,8 @@ If any team members are unable to be present or to vote, they must convene promp
 We’re going to have 3 categories:
 
 * **Useful**: you see yourself using it or it creates social value
-* **Funny**: silly/fun, does not have to be useful, it just has to make people laugh
-* **Hardcore**: technologically impressive achievements
+* **Fun**: does not have to be useful, it has to entertain or make people happy
+* **Creative**: a new idea or a new solution to a known problem
 
 When you cast a vote on somebody, you also choose the category. You can vote for a project in more than one category. The project owners might suggest categories to be voted on, but it’s completely up to the voter to follow that suggestion.
 
@@ -150,9 +150,9 @@ When you cast a vote on somebody, you also choose the category. You can vote for
 
 There will be prizes for the each member of the winning team in each category.
 
-* **Useful**: Dell UltraSharp 27 Monitor (U2715H)
-* **Funny**: Nintendo Switch (Grey) + Splatoon 2
-* **Hardcore**: Oculus Rift + Touch
+* **Useful**: Dell Monitor U2515H
+* **Fun**: Nintendo Switch
+* **Creative**: Bose QuietComfort 35
 
 #### Voting method
 
