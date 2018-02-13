@@ -215,6 +215,6 @@ One of the main goals of Make or Break is to create a fun and relaxing environme
 Disclaimer
 ---
 
-The disrespect to any of the “Make or Break 2017 — Rules” by any element, team, or project may result in the disqualification of that element, or team. That decision is ruled by the organization on a case-by-case basis.
-The organization may amend or supplement the “Make or Break 2017 — Rules” from time to time in our sole discretion without prior notice. Changes are effective upon posting, and it is encouraged to frequently review the “Make or Break 2017 — Rules” online for any changes.
+The disrespect to any of the “Make or Break 2018 — Rules” by any element, team, or project may result in the disqualification of that element, or team. That decision is ruled by the organization on a case-by-case basis.
+The organization may amend or supplement the “Make or Break 2018 — Rules” from time to time in our sole discretion without prior notice. Changes are effective upon posting, and it is encouraged to frequently review the “Make or Break 2018 — Rules” online for any changes.
 
