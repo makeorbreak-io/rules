@@ -14,6 +14,15 @@ and rules for every activity. Until the event begins, the rules are a work in
 progress. There won't be any major changes, but be sure to check back.
 
 
+## Code of Conduct
+
+One of the main goals of Make or Break is to create a fun and relaxing
+environment, where all the participants feel safe and sound, despite their
+gender, sexual orientation, ethnicity, nationality, or religion. In that sense,
+all the participants, organizers, guests, and visitors must follow our [code of
+conduct](code-of-conduct.md).
+
+
 ## Location and venue
 
 Make or Break happens in the city of Porto, Portugal. As in previous years, the
@@ -88,15 +97,6 @@ someone else from participating.
 
 ### AI Competition
 
-
-
-## Code of Conduct
-
-One of the main goals of Make or Break is to create a fun and relaxing
-environment, where all the participants feel safe and sound, despite their
-gender, sexual orientation, ethnicity, nationality, or religion. In that sense,
-all the participants, organizers, guests, and visitors must follow our strict
-[code of conduct](code-of-conduct.md).
 
 
 ## Disclaimer
