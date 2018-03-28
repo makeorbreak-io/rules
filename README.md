@@ -81,7 +81,7 @@ hackathon!
 
 ### Hackathon
 
-
+[Hackathon rules](hackathon.md)
 
 
 ### Workshops
@@ -95,9 +95,9 @@ only register if you are sure you can attend - otherwise you will be preventing
 someone else from participating.
 
 
-### AI Competition
+### A.I. Competition
 
-
+[A.I. Competition rules](ai-competition.md)
 
 ## Disclaimer
 
