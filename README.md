@@ -20,7 +20,7 @@ Make or Break happens in the city of Porto, Portugal. As in previous years, the
 venue will provide the participants with a shared working area, as well as
 chill-out and eating zones.
 
-This year's edition will be at [Palácio dos Correios, porto](https://goo.gl/maps/mMwoSdTibWS2).
+This year's edition will be at [Palácio dos Correios, Porto](https://goo.gl/maps/mMwoSdTibWS2).
 
 The closest Metro do Porto station is Avenida dos Aliados, but
 [Trindade](https://goo.gl/maps/FiNN4bvCafA2), the networks's main hub, is less
