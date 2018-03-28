@@ -90,16 +90,13 @@ someone else from participating.
 
 
 
-## Code of conduct
-
-TL;DR: treat others as you would want to be treated.
+## Code of Conduct
 
 One of the main goals of Make or Break is to create a fun and relaxing
 environment, where all the participants feel safe and sound, despite their
 gender, sexual orientation, ethnicity, nationality, or religion. In that sense,
-all the participants, organizers, guests, and visitors must follow a strict
-code of conduct of mutual respect, as described in
-[http://citizencodeofconduct.org](http://citizencodeofconduct.org)
+all the participants, organizers, guests, and visitors must follow our strict
+[code of conduct](code-of-conduct.md).
 
 
 ## Disclaimer
