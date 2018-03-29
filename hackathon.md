@@ -26,15 +26,17 @@ By the end of the hack fair, we’ll announce the three most ~~voted~~ preferred
 project in each of the categories.
 
 
-## Participation
+## Participation requirements
 
-MoB is a free event and everyone can apply in a team of 2 to 4 elements.
+Make or Break is a free event and everyone can apply in a team of 2 to 4 elements.
 
-It’s expected that each team will be actively building a software project to show off at the fair.
+It’s expected that each team will be actively building a software project to
+show off at the fair.
 
-At the fair, all of the members of your team are expected to divide their time between showcasing their team’s work and voting for other projects.
+At the fair, all of the members of your team are expected to divide their time
+between showcasing their team’s work and voting for other projects.
 
-Seating is limited, be sure to grab yours at [https://makeorbreak.io](https://makeorbreak.io)
+Seating is limited, be sure to grab yours at [makeorbreak.io](https://makeorbreak.io)
 
 ### Single-person teams
 
@@ -47,7 +49,7 @@ Excluding people from participating in the event is something that pains us
 greatly, and we didn’t make the decision lightly. The reasons why we don’t
 allow teams of 1 are:
 
-* **You won’t have the best experience**: this is the 4th event we organize,
+* **You won’t have the best experience**: this is the 5th event we organize,
   and we’ve already talked with enough lone rangers who expressed some regret
   about applying alone and wished they were enjoying the event to the fullest.
 
@@ -56,49 +58,50 @@ allow teams of 1 are:
   every seat counting, our goal to is to minimize our no-show rate, and
   individual applications have a higher no-show rate.
 
-* **Your project could be much better**: with a limited amount of time, there’s
-  so much a single person can do or endure. In our 3 years of Porto Summer of
-  Code, we have yet to a see a winning project with less than 3 elements. So,
-  for the time being, we are betting on you to at least convince your best
-  friend to join you in this unforgiving competition.
-
 * **The number of projects does not scale well**: with 250 participants, we
   want to make sure every project gets the spotlight it deserves. However,
   that’s already an impossible task, as there’s always the need to cut down the
   number of projects presenting to the public.
 
-This year, with a new (untested) fair format we have to be extra careful. We
-need to make sure the number of projects being showcased is adequate, to make
-sure every project can be properly displayed and experienced.
-
 There are always exceptions to every rule. Unfortunately, with limited
 resources, we have to optimize our rules to enhance the odds of success and
-make exceptions as we see fit.
+make exceptions as we see fit. If there’s something that can change our minds
+for the next edition of Make or Break, we want to hear it!
 
-If you are by yourself and you are unhappy that you could not participate, you
-are still welcome to join us on the show floor from 8 to 10 of September just
-to tell us that. If there’s something that can change our minds for the next
-edition of Make or Break, we want to hear it!
 
 ## Event phases
 
-MoB is split between two main phases: Make and Break.
+Make or Break is split between two main phases: Make and Break.
 
 ### Make
 
-Make is the hackathon, where people hack on things together, as a learning and collaboration experience, to try out things they normally wouldn’t work with.
-
-#### Admissible team size
-
-As referred earlier, we’ll only be accepting teams with 2 to 4 elements.
+Make is the hackathon, where people hack on things together, as a learning and
+collaboration experience, to try out things they normally wouldn’t work with.
 
 #### Code ownership and intellectual property
 
-We want MoB to be an experience that’s both fun and edifying for everyone. We’re firm believers in the value of open software can bring to the table for achieving this end, and we’ll rally around it as much as we can.
+We want Make or Break to be an experience that’s both fun and edifying for
+everyone. We’re firm believers in the value that free/libre open source
+software can bring to the table for achieving this end, and we'll rally around
+it as much as we can.
 
-The code (and any other produced artifacts) will belong to the participants. However, in the interest of keeping everything hackable and accessible, projects are required to be under [an OSI approved license](https://opensource.org/licenses) and unencumbered by any IP restrictions (like patents, among others). This way everyone can peek into any of the projects and learn from them, take them home to learn more, and even expand on them. Perhaps they’ll have something cool to discuss with you!
+The code (and any other produced artifacts) will belong to the participants.
+However, in the interest of keeping everything hackable and accessible,
+projects are required to be under [an OSI approved
+license](https://opensource.org/licenses) and unencumbered by any IP
+restrictions (like patents, among others). This way everyone can peek into any
+of the projects and learn from them, take them home to learn more, and even
+expand on them. Perhaps they’ll have something cool to discuss with you!
 
-In the interest of keeping things level, we’re only allowing to incorporate free/libre open source software that’s publicly available before the competition begins. We don’t have any issues with people using popular software packages, but we’d like to avoid that teams bring a whole project along when others couldn’t have done the same. If you have a non-trivial codebase you’d like to use on your hack, make sure it is publicly available under [an OSI approved license](https://opensource.org/licenses) and unencumbered by any IP restrictions before the competition begins. This way everybody starts equally as far from the finish line.
+In the interest of keeping things level, we’re only allowing to incorporate
+free/libre open source software that’s publicly available before the
+competition begins. We don’t have any issues with people using popular software
+packages, but we’d like to avoid that teams bring a whole project along when
+others couldn’t have done the same. If you have a non-trivial codebase you’d
+like to use on your hack, make sure it is publicly available under [an OSI
+approved license](https://opensource.org/licenses) and unencumbered by any IP
+restrictions *before* the competition begins. This way everybody starts equally
+as far from the finish line.
 
 
 #### Source code availability
@@ -111,7 +114,8 @@ can make available to everyone and that we can preserve for posterity.
 Not using the repository **will disqualify their entire team** from winning any
 prizes. If a team has any problem with this setup they must convene promptly
 with the organization as soon as possible, to find a way to avoid
-disqualification.
+disqualification. We will have a workshop on git during the first day of the
+event to help you get acquainted with these tools.
 
 #### Hosting
 
@@ -127,8 +131,8 @@ crunch the numbers, announce winners, and award prizes.
 
 #### Registration and booth setup
 
-A subset of the organization will go through each team to double checking their
-project submission and reminding participants of the voting requirements and
+A subset of the organization will go through each team to double check their
+project submission and remind participants of the voting requirements and
 process.
 
 #### Mandatory voting
@@ -148,11 +152,14 @@ We’re going to have 3 categories:
 * **Fun**: does not have to be useful, it has to entertain or make people happy
 * **Creative**: a new idea or a new solution to a known problem
 
-When you cast a vote on somebody, you also choose the category. You can vote for a project in more than one category. The project owners might suggest categories to be voted on, but it’s completely up to the voter to follow that suggestion.
+When you cast a vote on somebody, you also choose the category. You can vote
+for a project in more than one category. The project owners might suggest
+categories to be voted on, but it’s completely up to the voter to follow that
+suggestion.
 
 #### Prizes
 
-There will be prizes for the each member of the winning team in each category.
+There will be prizes for each member of the winning team in each category.
 
 * **Useful**: Dell Monitor U2515H
 * **Fun**: Nintendo Switch
@@ -189,8 +196,19 @@ preference in time, we'll randomly assign them one.
 
 #### Auditability
 
-At the end of the competition, we will publish the set of votes associated with anonymized identities. This will allow voters to verify that their vote is included in the list and that the number of votes matches the results. The anonymization process guarantees that each participant is able to verify that their votes are uniquely identified.
-The audit log is a text file with two sections. The first section contains a line for each participant, with their email in it, in alphabetical order. The second section, separated by an empty line from the previous one, contains a line for each participant, containing the `anonymized_identifier_hex` (which is `hex(HMAC(nonce, email)`), where nonce is assigned to you at registration time) and the list of projects they voted on, in decreasing order of preference. The second section is sorted in alphabetical order as well.
+At the end of the competition, we will publish the set of votes associated with
+anonymized identities. This will allow voters to verify that their vote is
+included in the list and that the number of votes matches the results. The
+anonymization process guarantees that each participant is able to verify that
+their votes are uniquely identified.
+
+The audit log is a text file with two sections. The first section contains a
+line for each participant, with their email in it, in alphabetical order. The
+second section, separated by an empty line from the previous one, contains a
+line for each participant, containing the `anonymized_identifier_hex` (which is
+`hex(HMAC(nonce, email)`), where nonce is assigned to you at registration time)
+and the list of projects they voted on, in decreasing order of preference. The
+second section is sorted in alphabetical order as well.
 
 Sample audit log:
 
@@ -212,6 +230,8 @@ f8fafa57ef507152eff134a04f7ef2d7 proj5 proj1 proj2
 
 #### Non-participant voting
 
-During the event, we may want certain guests to have the ability to vote (sponsors, CMP collaborators, etc.). To make it easier for them to vote, without having to install apps or register on our website, we are planning on handing them a set of physical tokens that they can give to competing teams. Each token will have a unique identifier to avoid double counting.
-
-
+During the event, we may want certain guests to have the ability to vote
+(sponsors, CMP collaborators, etc.). To make it easier for them to vote,
+without having to install apps or register on our website, we are planning on
+handing them a set of physical tokens that they can give to competing teams.
+Each token will have a unique identifier to avoid double counting.
