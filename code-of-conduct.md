@@ -13,8 +13,8 @@ expelled from these spaces at the discretion of the members of staff.
 For purposes of clarity, harassment includes, but is not strictly limited to:
 offensive verbal comments related to gender, gender identity and expression,
 sexual orientation, disability, physical appearance, body size, age, race,
-ethnicity, socioeconomic status, or religion (or lack thereof), off-topic
-sexual images in public spaces, deliberate intimidation, stalking, following,
+ethnicity, socioeconomic status, religion (or lack thereof), off-topic sexual
+images in public spaces, deliberate intimidation, stalking, following,
 harassing photography or recording, sustained disruption of talks or other
 events, inappropriate physical contact, and unwelcome sexual attention.
 
@@ -28,6 +28,7 @@ material. Sponsor representatives (including volunteers) should not use
 sexualised clothing/uniforms/costumes, or otherwise create a sexualised
 environment.
 
+
 ## Reporting
 
 If you are subject to or witness unacceptable behavior, or have any other
@@ -38,8 +39,8 @@ Members of staff will be happy to help participants contact venue security or
 local law enforcement, provide escorts, or otherwise assist those experiencing
 harassment to feel safe for the duration of the hackathon.
 
-You can identify members of staff by their badges or by their sweatshirts
-indicating **STAFF**.
+You can identify members of staff by their badges or by their badges indicating
+**STAFF**.
 
 
 ## Enforcement

@@ -30,8 +30,8 @@ project in each of the categories.
 
 Make or Break is a free event and everyone can apply in a team of 2 to 4 elements.
 
-It’s expected that each team will be actively building a software project to
-show off at the fair.
+It’s expected that each team will be actively building a software, hardware, or
+hybrid project to show off at the fair.
 
 At the fair, all of the members of your team are expected to divide their time
 between showcasing their team’s work and voting for other projects.
@@ -106,12 +106,12 @@ as far from the finish line.
 
 #### Source code availability
 
-In order to assure that all code is available to everyone, participants should
+In order to assure that all code is available to everyone, participants must
 use the GitHub repository provided by the organization. Nuking the repository
 and force pushes will be disabled. This ensures that we’ll have a copy that we
 can make available to everyone and that we can preserve for posterity.
 
-Not using the repository **will disqualify their entire team** from winning any
+Not using the repository **will disqualify the entire team** from winning any
 prizes. If a team has any problem with this setup they must convene promptly
 with the organization as soon as possible, to find a way to avoid
 disqualification. We will have a workshop on git during the first day of the
@@ -170,8 +170,8 @@ There will be prizes for each member of the winning team in each category.
 Each category has their own independent voting system. This means that voting
 in one category in no way influences the winners of the other categories.
 
-For each category, voters are allowed to vote on three projects, in order of
-preference. When the ballots close, we sort the projects by their ranking,
+For each category, voters are allowed to vote on up to three projects, in order
+of preference. When the ballots close, we sort the projects by their ranking,
 where ranking can be determined by [Schulze
 method](https://en.wikipedia.org/wiki/Schulze_method).
 

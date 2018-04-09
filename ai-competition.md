@@ -73,7 +73,7 @@ The day performance is the average performance for every ranked match played by
 a bot on a given day.
 
 From April 10th to 13th, bots will have to play the same two boards per day.
-That means each participant will 2 ranked matches (one on each board) against
+That means each participant will play 2 ranked matches (one on each board) against
 every other participant.
 
 On April 14th and April 15th participants will only play a single board, a new
@@ -82,7 +82,7 @@ and different one on each day.
 
 ### Competition performance
 
-Competition performance will determine the eventual winner of the competition.
+Competition performance will determine the winner of the competition.
 
 Competition performance is calculated by adding:
 
